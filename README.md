@@ -84,18 +84,10 @@ were done by me.
 
 ## References
 
-ABC News 2025, *High Court agrees to hear teenagers' challenge to under 16s
-social media ban*, ABC News, viewed 15 September 2026,
-<https://www.abc.net.au/news/2025-12-04/court-agrees-hear-teens-challenge-to-under-16-social-media-ban/106103338>.
+Byrne, E & Toomey, J 2025, 'High Court agrees to hear teenagers' challenge to under 16s social media ban', *ABC News*, 4 December, viewed 20 September 2026, <https://www.abc.net.au/news/2025-12-04/court-agrees-hear-teens-challenge-to-under-16-social-media-ban/106103338>.
 
-CQUniversity 2026, *COIT11223 ICT ethics and governance in society: Week 9
-workshop — censorship and government*, Moodle, CQUniversity, Sydney.
+CQUniversity 2026, *COIT11223 ICT ethics and governance in society: Week 9 workshop — censorship and government*, Moodle, CQUniversity, Sydney.
 
-Freedom House 2025, *Freedom on the Net 2025: an uncertain future for the
-global internet*, Freedom House, Washington DC, viewed 15 September 2026,
-<https://freedomhouse.org/report/freedom-net/2025/uncertain-future-global-internet>.
+Freedom House 2025, *Freedom on the Net 2025: an uncertain future for the global internet*, Freedom House, Washington DC, viewed 20 September 2026, <https://freedomhouse.org/report/freedom-net/2025/uncertain-future-global-internet>.
 
-Smith, M, Nolan, M & Gaffey, J 2024, 'Online safety and social media
-regulation in Australia: eSafety Commissioner v X Corp', *Griffith Law
-Review*, vol. 33, no. 1, viewed 15 September 2026,
-<https://www.tandfonline.com/doi/full/10.1080/10383441.2024.2405760
+Smith, M, Nolan, M & Gaffey, J 2024, 'Online safety and social media regulation in Australia: eSafety Commissioner v X Corp', *Griffith Law Review*, vol. 33, no. 1, viewed 20 September 2026, <https://www.tandfonline.com/doi/full/10.1080/10383441.2024.2405760>.
