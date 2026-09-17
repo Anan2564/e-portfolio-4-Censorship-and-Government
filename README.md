@@ -1,8 +1,3 @@
-<img width="1536" height="2048" alt="WhatsApp Image 2026-09-17 at 12 47 53 PM" src="https://github.com/user-attachments/assets/2cad1960-b1c3-403d-ae8f-395690d407cf" />
-<img width="1536" height="2048" alt="WhatsApp Image 2026-09-17 at 12 47 53 PM" src="https://github.com/user-attachments/assets/6453e9d0-8ca1-4821-ae8f-3a1a332b0b83" />
-
-
-
 # e-portfolio-4-Censorship-and-Government
 
 Name: Ishmam Hamim Anan Student ID: 12324521
@@ -67,6 +62,9 @@ Tutor: Umapathy Venugopal
 Campus: Sydney Campus
 
 Workshop Evidence:
+
+
+<img width="1536" height="2048" alt="WhatsApp Image 2026-09-17 at 12 47 53 PM" src="https://github.com/user-attachments/assets/2e4e7e98-7d3b-47fd-8d69-f50a394bd39b" />
 
 
 
