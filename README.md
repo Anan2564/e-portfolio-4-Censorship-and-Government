@@ -64,7 +64,7 @@ Campus: Sydney Campus
 Workshop Evidence:
 
 
-<img width="1536" height="2048" alt="WhatsApp Image 2026-09-17 at 12 47 53 PM" src="https://github.com/user-attachments/assets/2e4e7e98-7d3b-47fd-8d69-f50a394bd39b" />
+<img width="2048" height="1662" alt="WhatsApp Image 2026-09-17 at 12 52 21 PM" src="https://github.com/user-attachments/assets/4a785e22-535f-4862-9037-a9989cee98e0" />
 
 
 
